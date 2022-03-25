@@ -1,8 +1,8 @@
-### Hi there! I am Anton Boltachka 👋 
+## Hi there!
 ---
-#### About me
+### About me
 
-🎓 I am an American University **MA in Applied Economics** graduate (class 2021) with experience assisting and managing research projects in think tanks, a central bank, and an international organization.
+🎓 I am Anton Boltachka, an American University **MA in Applied Economics** graduate (class 2021) with experience assisting and managing research projects in think tanks, a central bank, and an international organization.
 
 🔭  I am currently searching for a Ph.D. program in Economics to continue my education and keep up working on a couple of research in the field of **Development Economics, Microeconomics, and Political Economy** of Post-Soviet countries. I am planning to publish ongoing and future research projects here.
 
