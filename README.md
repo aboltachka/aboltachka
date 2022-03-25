@@ -1,6 +1,5 @@
-## Hi there!
----
-### About me
+# Hi there!
+## About me
 
 🎓 I am Anton Boltachka, an American University **MA in Applied Economics** graduate (class 2021) with experience assisting and managing research projects in think tanks, a central bank, and an international organization.
 
@@ -13,24 +12,24 @@
 🚀 I love mixing education from different countries and regions. I feel much more comfortable studying and working within multicultural settings. To date, I have studied in three countries: **Belarus, the United Kingdom, and the United States**.
 
 
-#### Achivements
+## Achivements
 ---
 - Edmund S. Muskie Professional Fellowship Program, *2021*
 - Prize in Memory of Jose Epstein for academic excellence, *2021*
 - Fulbright Foreign Student Program Scholarship, *2019-2021*
   
-#### Skills
+## Skills
 ---
 
 **Statistics and Methods**: Time series analysis, Panel data analysis, Causal Inference methods (RCT, DID, RDD, IV), Machine Learning techniques (Supervised and Unsupervised).
 **Typesetting**: LaTeX, Overleaf, Microsoft Office (Excel, Word, PowerPoint, Access), Google Docs.
 
 
-#### Stats
+## Stats
 ---
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=aboltachka&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-#### Links
+## Links
 ---
 
 
