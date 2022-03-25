@@ -1,4 +1,4 @@
-# Hi there! <h1>Hi there! <span class="wave">👋</span></h1>
+# Hi there! <span class="wave">👋</span>
 ## About me
 
 🎓 I am Anton Boltachka, an American University **MA in Applied Economics** graduate (class 2021) with experience assisting and managing research projects in think tanks, a central bank, and an international organization.
