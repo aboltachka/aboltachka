@@ -13,24 +13,22 @@
 
 
 ## Achivements
----
+
 - Edmund S. Muskie Professional Fellowship Program, *2021*
 - Prize in Memory of Jose Epstein for academic excellence, *2021*
 - Fulbright Foreign Student Program Scholarship, *2019-2021*
   
 ## Skills
----
 
 **Statistics and Methods**: Time series analysis, Panel data analysis, Causal Inference methods (RCT, DID, RDD, IV), Machine Learning techniques (Supervised and Unsupervised).
 **Typesetting**: LaTeX, Overleaf, Microsoft Office (Excel, Word, PowerPoint, Access), Google Docs.
 
 
 ## Stats
----
+
 [![Anton's github stats](https://github-readme-stats.vercel.app/api?username=aboltachka&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Links
----
 
 
 
