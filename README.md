@@ -3,7 +3,7 @@
 
 🎓 I am Anton Boltachka, an American University **MA in Applied Economics** graduate (class 2021) with experience assisting and managing research projects in think tanks, a central bank, and an international organization.
 
-🔭  I am currently searching for a Ph.D. program in Economics to continue my education and keep up working on a couple of research in the field of **Development Economics, Microeconomics, and Political Economy** of Post-Soviet countries. I am planning to publish ongoing and future research projects here.
+🔭  I am currently searching for a Ph.D. program in Economics to continue my education. Also, I keep up working on a couple of research in the field of **Development Economics, Microeconomics, and Political Economy** of Post-Soviet countries. I am planning to publish ongoing and future research projects here.
 
 🌱  I am a big fan of researchers who artfully created fantastic methodologies using non-standard data to find solutions to complex problems. That is why my current phase of research cemented my desire to advance **skills in analyzing economic issues with tools from economics, data science, and other related fields**. 
 
