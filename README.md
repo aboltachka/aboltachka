@@ -5,9 +5,9 @@
 
 🔭  I am currently searching for a Ph.D. program in Economics to continue my education. Also, I keep up working on a couple of research in the field of **Development Economics, Microeconomics, and Political Economy** of Post-Soviet countries. I am planning to publish ongoing and future research projects here.
 
-🌱  I am a big fan of researchers who artfully created fantastic methodologies using non-standard data to find solutions to complex problems. That is why my current phase of research cemented my desire to advance **skills in analyzing economic issues with tools from economics, data science, and other related fields**. 
+🌱  I am a big fan of researchers who artfully create fantastic methodologies using non-standard data to find solutions to complex problems. That is why my current phase of research cemented my desire to advance **skills in analyzing economic issues with tools from economics, data science, and other related fields**. 
 
-📖 I am constantly pushing myself to try something new. My hobbies include **chess, hiking, jogging, cooking, video games**, etc. Being lucky to know **Belarusian, Russian, English, and Ukrainian languages**, I plan to start learning **Spanish** (Since I love watching La Liga football games, I'd like to understand more when players give interviews after a match).
+📖 I am constantly pushing myself to try something new. My hobbies include **chess, hiking, jogging, cooking, video games**, etc. Being lucky to know **Belarusian, Russian, English, and Ukrainian languages**, I plan to start learning **Spanish** (I love watching La Liga football games and I'd like to understand more when players give interviews after a match).
 
 🚀 I love mixing education from different countries and regions. I feel much more comfortable studying and working within multicultural settings. To date, I have studied in three countries: **Belarus, the United Kingdom, and the United States**.
 
